@@ -1,5 +1,5 @@
-**IMMUNIFY**
-Immunify is an innovative mobile application that provides a comprehensive child vaccination system to help parents keep their children up-to-date with their vaccination schedule
+# **IMMUNIFY**
+Immunify is an innovative mobile application that provides a comprehensive child vaccination system to help parents keep their children up-to-date with their vaccination schedule.
 
 
 ## Getting Started
