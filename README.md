@@ -1,6 +1,6 @@
-# child_vaccination
+**IMMUNIFY**
+Immunify is an innovative mobile application that provides a comprehensive child vaccination system to help parents keep their children up-to-date with their vaccination schedule
 
-A new Flutter project.
 
 ## Getting Started
 
