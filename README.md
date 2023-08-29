@@ -2,15 +2,6 @@
 Immunify is an innovative mobile application that provides a comprehensive child vaccination system to help parents keep their children up-to-date with their vaccination schedule.
 
 
-## Getting Started
+## Reference video of the app 
+https://github.com/Seema25dhami/Child_Vaccination_Management_System/assets/85451750/fcac1f35-d156-4a06-8a01-65d5b2968f99
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
