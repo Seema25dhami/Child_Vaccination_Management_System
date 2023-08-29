@@ -8,6 +8,5 @@ Immunify is an innovative mobile application that provides a comprehensive child
 - Intuitive app design with easy profile creation and vaccination history tracking.
  
 ## Demo Video
-Click on the link given to watch a demo video of the Child Immunization System:
-YouTube Link : https://youtu.be/FtxiB1C1mv4
+Click on the link given to watch a demo video of the Child Immunization System: https://youtu.be/FtxiB1C1mv4
 
