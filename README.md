@@ -1,11 +1,13 @@
 # **IMMUNIFY**
 Immunify is an innovative mobile application that provides a comprehensive child vaccination system to help parents keep their children up-to-date with their vaccination schedule.
 
-Tech Stack used : Flutter , Firebase , Figma 
+## Features
 
-
-## Reference video of the app 
-https://github.com/Seema25dhami/Child_Vaccination_Management_System/assets/85451750/fcac1f35-d156-4a06-8a01-65d5b2968f99
-
+- User-friendly interface for parents to track vaccination records.
+- Firebase backend for secure data storage and authentication.
+- Intuitive app design with easy profile creation and vaccination history tracking.
+ 
+## Demo Video
+Click the thumbnail below to watch a demo video of the Child Immunization System:
 YouTube Link : https://youtu.be/FtxiB1C1mv4
 
